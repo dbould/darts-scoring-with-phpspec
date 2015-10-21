@@ -12,10 +12,13 @@ https://nodejs.org/en/
 https://docs.npmjs.com/getting-started/fixing-npm-permissions
 
 ### Install Gulp Globally
-$ npm install --global gulp
+> $ npm install --global gulp
 
 # Project Setup
 Update the composer.json and package.json files with project specific information.
 
+### run composer
 > $ composer install
+
+### run npm
 > $ npm install
